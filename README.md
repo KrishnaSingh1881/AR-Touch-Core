@@ -80,4 +80,4 @@ Issues, pull requests, and feedback are always welcome\! Please feel free to sub
 
 ## **📜 License**
 
-This project is licensed under the **MIT License**. Feel free to use, modify, and share. See [LICENSE.md](http://docs.google.com/LICENSE.md) for full details.
+This project is licensed under the **MIT License**. Feel free to use, modify, and share. See [LICENSE.md]([http://docs.google.com/LICENSE.md](https://github.com/KrishnaSingh1881/AR-Touch-Core/blob/main/LICENSE.md)) for full details.

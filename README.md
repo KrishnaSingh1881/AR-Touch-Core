@@ -22,16 +22,6 @@ AR-Touch-Core is a lightweight, component-based framework that adds powerful tou
 
 ## 
 
-## 
-
-## 
-
-## 
-
-## 
-
-## 
-
 ## **🧩 Core Components**
 
 The system is composed of a few focused scripts and one custom shader.

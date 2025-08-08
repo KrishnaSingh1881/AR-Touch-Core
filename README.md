@@ -8,7 +8,8 @@ AR-Touch-Core is a lightweight, component-based framework that adds powerful tou
 
 ## **🌟 Core Features**
 
-* 👆 **Universal Input:** Works seamlessly with touch on mobile devices and mouse clicks in the Unity Editor.  
+* 👆 **Universal Input:** Works seamlessly with touch on mobile devices and mouse clicks in the Unity Editor.
+* 🔗 Robust, Tag-Free Workflow: The system uses direct component references instead of fragile string-based tags. This means no more typos breaking your project—just simple, reliable drag-and-drop setup.  
 * 📦 **Modular Architecture:** A clean, component-based system that’s easy to understand and extend. Each script has a single, clear responsibility.  
 * 📱 **AR Ready:** Built from the ground up to handle objects spawned dynamically at runtime, a common requirement in AR Foundation workflows.  
 * ✨ **Animated Popups:** Spawned objects smoothly fade in and out for a polished, professional user experience.  
